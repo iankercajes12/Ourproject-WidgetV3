@@ -6,7 +6,7 @@ function StarRating(props) {
   const heading = props.heading;
   const instanceid = props.instanceid;
   const active = props.active;
-  const productid = 6968436424809;
+  const productid = props.productid;
   const clipboardheading = props.clipboardheading;
   const clipboardscript = props.clipboardscript;
   const clipboardscriptnote = props.clipboardscriptnote;
